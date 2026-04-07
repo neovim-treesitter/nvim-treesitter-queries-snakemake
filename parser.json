@@ -1,6 +1,6 @@
 {
   "url": "https://github.com/osthomas/tree-sitter-snakemake",
   "semver": false,
-  "lang": "snakemake",
-  "parser_version": "68010430c3e51c0e84c1ce21c6551df0e2469f51"
+  "parser_version": "68010430c3e51c0e84c1ce21c6551df0e2469f51",
+  "lang": "snakemake"
 }
